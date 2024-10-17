@@ -4,3 +4,8 @@
 
 **/.ipynb_checkpoints
 **/.DS_Store
+
+*.faiss
+*.pkl
+.env
+*.json
